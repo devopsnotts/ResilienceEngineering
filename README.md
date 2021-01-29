@@ -21,7 +21,7 @@ https://davidmarquet.com/books/
 
 Lorin Hochstein and Resilience Engineering fundamentals: https://github.com/lorin/resilience-engineering/blob/master/intro.md
 
-Scott Sagain, The Limits of Safety:
+Scott Sagan, The Limits of Safety:
 “The Limits of Safety: Organizations, Accidents, and Nuclear Weapons”, Scott D. Sagan, Princeton University Press, 1993.
 
 Sidney Dekker: “The Field Guide To Understanding Human Error: Sidney Dekker, 2014
